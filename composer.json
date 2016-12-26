@@ -1,5 +1,5 @@
 {
-    "name": "zalsader/MyMigrations",
+    "name": "zalsader/my-migrations",
     "description": "MyMigrations plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
